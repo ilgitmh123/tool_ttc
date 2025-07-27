@@ -8,7 +8,7 @@
 - Mô phỏng hành vi người dùng tương tác: like, share, comment, follow...
 - Chống bot detect: anti-detect, delay tự nhiên, thao tác mô phỏng người dùng thật.
 - Tự động cập nhật **ChromeDriver** phiên bản phù hợp 🚀.
-- Tích hợp kiểm tra key: **key học tập, reset hàng ngày**, dễ quản lý.
+- Tích hợp kiểm tra key: **key ứng dụng bảo mật hashing 2 lớp, reset hàng ngày**, dễ quản lý.
 
 ---
 
